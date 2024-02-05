@@ -6,4 +6,5 @@ tags:
   - joe rogan
 title: Every man has two lives
 ---
+
 Every man has two lives, and the second starts when he realizes he only has one.
