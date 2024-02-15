@@ -1,8 +1,8 @@
 <script>
-    export let data
+  export let data
 </script>
 
 <h1>{data.title}</h1>
 <div>
-    {@html data.quote}
+  {@html data.html}
 </div>
