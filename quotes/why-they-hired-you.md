@@ -1,0 +1,1 @@
+When everything goes fine, they wonder why they hired you. When anything goes wrong, they wonder why they hired you.

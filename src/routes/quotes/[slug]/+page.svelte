@@ -2,7 +2,7 @@
     export let data
 </script>
 
-<h1>Quote {data.slug}</h1>
+<h1>{data.title}</h1>
 <div>
     {@html data.quote}
 </div>

@@ -2,3 +2,7 @@
 export function createSlugFromPath(path) {
   return path.match(/([\w-]+)\.(md|svx)/i)?.[1] ?? null;
 }
+
+export function stripTags(inputString) {
+  return inputString.replace(/<\/?[^>]+(>|$)/g, "");
+}
