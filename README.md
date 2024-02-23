@@ -1,4 +1,4 @@
-# [Quotes App](https://quotes.wherehowhy.com/))
+# [Quotes App](https://quotes.wherehowhy.com/)
 
 A svelte app to display quotes from markdown files.
 
