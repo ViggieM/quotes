@@ -3,6 +3,6 @@
 </script>
 
 <h1>{data.title}</h1>
-<div>
+<div data-pagefind-body>
   {@html data.html}
 </div>
